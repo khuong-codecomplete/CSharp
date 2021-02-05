@@ -1,0 +1,13 @@
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\bin\Debug\netcoreapp3.1\PlusMatrices.exe
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\bin\Debug\netcoreapp3.1\PlusMatrices.deps.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\bin\Debug\netcoreapp3.1\PlusMatrices.runtimeconfig.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\bin\Debug\netcoreapp3.1\PlusMatrices.runtimeconfig.dev.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\bin\Debug\netcoreapp3.1\PlusMatrices.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\bin\Debug\netcoreapp3.1\PlusMatrices.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\obj\Debug\netcoreapp3.1\PlusMatrices.csprojAssemblyReference.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\obj\Debug\netcoreapp3.1\PlusMatrices.AssemblyInfoInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\obj\Debug\netcoreapp3.1\PlusMatrices.AssemblyInfo.cs
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\obj\Debug\netcoreapp3.1\PlusMatrices.csproj.CoreCompileInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\obj\Debug\netcoreapp3.1\PlusMatrices.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\obj\Debug\netcoreapp3.1\PlusMatrices.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\PlusMatrices\obj\Debug\netcoreapp3.1\PlusMatrices.genruntimeconfig.cache

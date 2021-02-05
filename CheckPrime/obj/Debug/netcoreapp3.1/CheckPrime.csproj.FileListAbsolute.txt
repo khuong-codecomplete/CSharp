@@ -1,0 +1,13 @@
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.exe
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.deps.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.runtimeconfig.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.runtimeconfig.dev.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\bin\Debug\netcoreapp3.1\CheckPrime.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.csprojAssemblyReference.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.AssemblyInfoInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.AssemblyInfo.cs
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.csproj.CoreCompileInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPrime\obj\Debug\netcoreapp3.1\CheckPrime.genruntimeconfig.cache

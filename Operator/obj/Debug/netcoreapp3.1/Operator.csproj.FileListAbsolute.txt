@@ -1,0 +1,13 @@
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\bin\Debug\netcoreapp3.1\Operator.exe
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\bin\Debug\netcoreapp3.1\Operator.deps.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\bin\Debug\netcoreapp3.1\Operator.runtimeconfig.dev.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\bin\Debug\netcoreapp3.1\Operator.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\bin\Debug\netcoreapp3.1\Operator.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\obj\Debug\netcoreapp3.1\Operator.csprojAssemblyReference.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfoInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\obj\Debug\netcoreapp3.1\Operator.AssemblyInfo.cs
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\obj\Debug\netcoreapp3.1\Operator.csproj.CoreCompileInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\obj\Debug\netcoreapp3.1\Operator.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\obj\Debug\netcoreapp3.1\Operator.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Operator\obj\Debug\netcoreapp3.1\Operator.genruntimeconfig.cache

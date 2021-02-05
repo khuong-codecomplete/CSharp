@@ -1,0 +1,12 @@
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\bin\Debug\netcoreapp3.1\Structure.exe
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\bin\Debug\netcoreapp3.1\Structure.deps.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\bin\Debug\netcoreapp3.1\Structure.runtimeconfig.dev.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\bin\Debug\netcoreapp3.1\Structure.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\bin\Debug\netcoreapp3.1\Structure.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfoInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\obj\Debug\netcoreapp3.1\Structure.AssemblyInfo.cs
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\obj\Debug\netcoreapp3.1\Structure.csproj.CoreCompileInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\obj\Debug\netcoreapp3.1\Structure.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\obj\Debug\netcoreapp3.1\Structure.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\Structure\obj\Debug\netcoreapp3.1\Structure.genruntimeconfig.cache

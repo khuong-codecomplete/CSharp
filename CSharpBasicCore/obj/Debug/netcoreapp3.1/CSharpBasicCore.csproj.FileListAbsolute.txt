@@ -1,0 +1,12 @@
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\bin\Debug\netcoreapp3.1\CSharpBasicCore.exe
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\bin\Debug\netcoreapp3.1\CSharpBasicCore.deps.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\bin\Debug\netcoreapp3.1\CSharpBasicCore.runtimeconfig.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\bin\Debug\netcoreapp3.1\CSharpBasicCore.runtimeconfig.dev.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\bin\Debug\netcoreapp3.1\CSharpBasicCore.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\bin\Debug\netcoreapp3.1\CSharpBasicCore.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\obj\Debug\netcoreapp3.1\CSharpBasicCore.AssemblyInfoInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\obj\Debug\netcoreapp3.1\CSharpBasicCore.AssemblyInfo.cs
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\obj\Debug\netcoreapp3.1\CSharpBasicCore.csproj.CoreCompileInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\obj\Debug\netcoreapp3.1\CSharpBasicCore.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\obj\Debug\netcoreapp3.1\CSharpBasicCore.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CSharpBasicCore\obj\Debug\netcoreapp3.1\CSharpBasicCore.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\bin\Debug\netcoreapp3.1\CheckPerfectNumber.exe
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\bin\Debug\netcoreapp3.1\CheckPerfectNumber.deps.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\bin\Debug\netcoreapp3.1\CheckPerfectNumber.runtimeconfig.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\bin\Debug\netcoreapp3.1\CheckPerfectNumber.runtimeconfig.dev.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\bin\Debug\netcoreapp3.1\CheckPerfectNumber.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\bin\Debug\netcoreapp3.1\CheckPerfectNumber.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\obj\Debug\netcoreapp3.1\CheckPerfectNumber.csprojAssemblyReference.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\obj\Debug\netcoreapp3.1\CheckPerfectNumber.AssemblyInfoInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\obj\Debug\netcoreapp3.1\CheckPerfectNumber.AssemblyInfo.cs
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\obj\Debug\netcoreapp3.1\CheckPerfectNumber.csproj.CoreCompileInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\obj\Debug\netcoreapp3.1\CheckPerfectNumber.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\obj\Debug\netcoreapp3.1\CheckPerfectNumber.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\CheckPerfectNumber\obj\Debug\netcoreapp3.1\CheckPerfectNumber.genruntimeconfig.cache

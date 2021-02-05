@@ -1,0 +1,13 @@
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\bin\Debug\netcoreapp3.1\SortArray.exe
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\bin\Debug\netcoreapp3.1\SortArray.deps.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\bin\Debug\netcoreapp3.1\SortArray.runtimeconfig.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\bin\Debug\netcoreapp3.1\SortArray.runtimeconfig.dev.json
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\bin\Debug\netcoreapp3.1\SortArray.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\bin\Debug\netcoreapp3.1\SortArray.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\obj\Debug\netcoreapp3.1\SortArray.csprojAssemblyReference.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\obj\Debug\netcoreapp3.1\SortArray.AssemblyInfoInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\obj\Debug\netcoreapp3.1\SortArray.AssemblyInfo.cs
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\obj\Debug\netcoreapp3.1\SortArray.csproj.CoreCompileInputs.cache
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\obj\Debug\netcoreapp3.1\SortArray.dll
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\obj\Debug\netcoreapp3.1\SortArray.pdb
+E:\INTERNdotnet\C# basic\CSharpBasicCore\SortArray\obj\Debug\netcoreapp3.1\SortArray.genruntimeconfig.cache
